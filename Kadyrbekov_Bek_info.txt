@@ -1,0 +1,5 @@
+Name: Bek
+Surname: Kadyrbekov
+Group: IT2-2306
+Student ID: 35534
+Course: DevOps
