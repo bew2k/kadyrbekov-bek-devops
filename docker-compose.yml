@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: kadyrbekov-bek-devops
+    container_name: kadyrbekov-bek-container
+    environment:
+      STUDENT_NAME: Bek
+      STUDENT_SURNAME: Kadyrbekov
+      STUDENT_GROUP: IT2-2306
+      STUDENT_ID: "35534"
